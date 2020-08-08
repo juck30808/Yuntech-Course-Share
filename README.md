@@ -1,6 +1,6 @@
 # NYUST-Yuntech-Course
 
-# 國立雲林科技大學課程資源站
+## 雲林科技大學課程資源站
 
 ## 前言
 
@@ -12,12 +12,8 @@
 
 ## 資料共享
 
-**歡迎貢獻！ **
-**只有大家踴躍貢獻，本項目才能更好的維持下去。歡迎大家分享課程資料，以及理性討論和評價課程。 **
-
+歡迎貢獻！只有大家踴躍貢獻，本項目才能更好的維持下去。歡迎大家分享課程資料，以及理性討論和評價課程。
 Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家的關注、維護和貢獻，才是讓這個攻略繼續存在的動力~
-
-對於課程的評價可寫在對應課程文件夾的 `README.md` 中。
 由於整體資料庫佔空間較大，故推薦採用在 **GitHub Web 端直接上傳** 的方式，具體操作如下：
 
 1. 首先 Fork 本項目
@@ -35,7 +31,7 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 其他部分的版權歸屬於其各自的作者。資料僅供參考，請自己判斷其適用性。
 
 這不是官方圖書館。只是一群熱心奉獻的夥伴們，我們不對資料準確性或真實性做任何承諾。
-當然，我們不會為收集到的資料收費，或是嘗試收取捐贈。我們只是嘗試為後來的同學節省一些時間。
+當然，我們不為任何資料收費，或是嘗試收取捐贈。我們只是為後來的同學節省一些時間。
 
 
 ## 免責聲明
@@ -43,18 +39,19 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 - 本項目建立的初衷是為了方便同學們更好地學習相關課程。 **嚴禁用於任何商業用途!**
 - **如果本項目有任何侵權行為，麻煩您發送郵件至 b10523030@yuntech.edu.tw ，帶來不便還請您諒解。 **
 
+按著作權法第五十二條規定：「為報導、評論、教學、研究或其他正當目的之必要，在合理範圍內，得引用已公開發表之著作。」這項規定所引用的著作，其來源如何，並無限制，著作權法第六十五條第二項規定，「應審酌一切情狀，尤應注意下列事項，以為判斷之基準：一、利用之目的及性質，包括係為商業目的或非營利教育目的。二、著作之性質。三、所利用之質量及其在整個著作所占之比例。四、利用結果對著作潛在市場與現在價值之影響。」製作課程資料利用他人著作，若能合於「非營利教育目的」、「教學之必要」、「極短片段」、「註明出處」、「避免影響被利用著作之行銷市場」，即能提高合理使用之合理性。
+
 ## Related Works (Github 還有很多相關公開資訊)
 
-- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-- [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
-- [北京大学信科学生会学术部资料库](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
-- [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
-- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
-- [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
-- [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
-- [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
-- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
-- [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
-- [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
-
+- [北京大學計算機課程大作業](https://github.com/tongtzeho/PKUCourse)
+- [北京大學信科學生會學術部資料庫](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
+- [北京清華大學計算機系課程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京大學往年題資料庫氣墊船計劃](https://github.com/martinwu42/project-hover)
+- [上海交通大學課程資料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
+- [浙江大學課程攻略共享計劃](https://github.com/QSCTech/zju-icicles)
+- [南京大學課程複習資料](https://github.com/idealclover/NJU-Review-Materials)
+- [中國科學技術大學計算機學院課程資源](https://github.com/USTC-Resource/USTC-Course)
+- [廣東中山大學課程資料分享](https://github.com/sysuexam/SYSU-Exam)
+- [南京東南大學課程共享計劃](https://github.com/zjdx1998/seucourseshare)
+- [鄭州大學課程複習資料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [廣東工業大學計算機學院課程攻略](https://github.com/brenner8023/gdut-course)
