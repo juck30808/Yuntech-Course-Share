@@ -55,3 +55,5 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 - [南京東南大學課程共享計劃](https://github.com/zjdx1998/seucourseshare)
 - [鄭州大學課程複習資料](https://github.com/CooperNiu/ZZU-Courses-Resource)
 - [廣東工業大學計算機學院課程攻略](https://github.com/brenner8023/gdut-course)
+- [台灣大學課程攻略](https://github.com/Hsins/NTU-Courses)
+
