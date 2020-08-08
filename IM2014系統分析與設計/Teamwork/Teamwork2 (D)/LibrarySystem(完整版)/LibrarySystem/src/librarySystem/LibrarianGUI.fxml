@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="librarySystem.LibrarianController">
+   <children>
+      <Button fx:id="addMemberButton" layoutX="28.0" layoutY="113.0" minWidth="150.0" mnemonicParsing="false" onAction="#addMemberButtonClick" text="addMember" />
+      <Button fx:id="editMemberButton" layoutX="209.0" layoutY="112.0" minWidth="150.0" mnemonicParsing="false" onAction="#editMemberButtonClick" text="editMember" textAlignment="CENTER" />
+      <Button fx:id="deleteMemberButton" layoutX="392.0" layoutY="112.0" minWidth="150.0" mnemonicParsing="false" onAction="#deleteMemberButtonClick" text="deleteMember" />
+      <Group>
+         <children>
+            <Button fx:id="addEbookButton" layoutX="28.0" layoutY="150.0" minWidth="150.0" mnemonicParsing="false" onAction="#addEbookButtonClick" text="addEbook" />
+         </children>
+      </Group>
+      <Button fx:id="editEbookButton" layoutX="209.0" layoutY="149.0" minWidth="150.0" mnemonicParsing="false" onAction="#editEbookButtonClick" text="editEbook" />
+      <Button fx:id="deleteEbookButton" layoutX="392.0" layoutY="149.0" minWidth="150.0" mnemonicParsing="false" onAction="#deleteEbookButtonClick" text=" deleteEbook" />
+      <Button fx:id="returnBookButton" layoutX="392.0" layoutY="261.0" minWidth="150.0" mnemonicParsing="false" onAction="#returnBookButtonClick" text="returnBook" />
+      <Button fx:id="borrowBookButton" layoutX="210.0" layoutY="261.0" minWidth="150.0" mnemonicParsing="false" onAction="#borrowBookButtonClick" text="borrowBook" />
+      <Button fx:id="searchBookButton" layoutX="27.0" layoutY="261.0" minWidth="150.0" mnemonicParsing="false" onAction="#searchBookButtonClick" text="searchBook" />
+      <Button fx:id="addBookButton" layoutX="28.0" layoutY="186.0" minWidth="150.0" mnemonicParsing="false" onAction="#addBookButtonClick" text="addBook" />
+      <Button fx:id="editBookButton" layoutX="209.0" layoutY="186.0" minWidth="150.0" mnemonicParsing="false" onAction="#editBookButtonClick" text="editBook" />
+      <Button fx:id="updatePaperBookStateButton" layoutX="175.0" layoutY="331.0" minWidth="150.0" mnemonicParsing="false" onAction="#updatePaperBookStateButtonClick" text="updatePaperBookState" />
+      <Label layoutX="148.0" layoutY="41.0" text="Librarian Function">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

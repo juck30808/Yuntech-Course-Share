@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="librarySystem.MemberController">
+   <children>
+      <Button fx:id="searchBookButton" layoutX="235.0" layoutY="118.0" minWidth="150.0" mnemonicParsing="false" onAction="#searchBookButtonClick" text="searchBook" />
+      <Button fx:id="borrowBookButton" layoutX="234.0" layoutY="190.0" minWidth="150.0" mnemonicParsing="false" onAction="#borrowBookButtonClick" text="borrowBook" />
+      <Label layoutX="209.0" layoutY="51.0" text="Member Function">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
