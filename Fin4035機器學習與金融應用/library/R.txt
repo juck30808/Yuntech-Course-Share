@@ -1,0 +1,88 @@
+變數設定 (X <- 1 )
+加減乘除 (+ - * /)
+取得餘數 (X %% Y )
+亂數產生 (samle(x,size,replace = FALSE,...)
+
+
+所有的指令都是在這個 R Console 視窗中做輸入，而所有的文字輸出也都是在這裡，他是 R 中最主要的操作介面。
+我們可以在 R Console 中直接輸入我們想要計算的數學式子，把 R 當作一般的計算機使用：
+其中 <- 為 R 特有的指定運算子（assignment operator），在大多數的情況下也可以使用等號 = 取代，就像這樣：
+
+#計算總合
+sum(1:10)    #1:10 所產生的數列稱為一個向量
+[1] 55       #sum 則稱為函數（function）
+
+sin(pi/2)	#三角函數：1
+abs(-34)	#絕對值：34
+exp(1)		#指數：2.718282
+median(1:5)     #中位數：3
+
+
+a <- 1
+b <- 2
+c <- 3
+等同
+a <- 1; b <- 2; c <- 3;
+
+R 中的數值總共有三種，分別為：
+numeric：浮點數。
+integer：整數。
+complex：複數。
+
+
+
+
+
+/
+R更新到3.4.2
+
+1.From wiki 開放資料
+	https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99
+2.web crawler 網路爬蟲
+	None
+3.API
+	https://developers.facebook.com/
+	
+
+進入FB develope開發人員工具，應用程式編號&密鑰是連結API最重要的東西
+
+編號281152499044734
+密鑰03c2577c49b0e12b241f668f1a30cb01
+
+執行前3行登入
+商品→Facebook登入→有效的重新導向URL→設定→新增平台→網站→貼上URL
+重新執行即可登入
+
+
+/
+
+
+install.packages("Rfacebook")
+library("Rfacebook")
+fb_oauth = fbOAuth(app_id = "281152499044734",app_secret = "03c2577c49b0e12b241f668f1a30cb01")
+
+
+dir_fb_oauth = "d:/fb_oauth"
+save(dir_fb_oauth, file = dir_fb_oauth)
+load(dir_fb_oauth)
+
+#擷取專業的最近10篇文章
+fb_page = getPage(page="fqyuntech",token = fb_oauth, n=10)
+names( fb_page ) #查看有哪些欄位資料
+
+fb_page$message[1:10] #顯示最近貼文內容
+fb_page$comments_count[1:5] #顯示最近5篇貼文的評論數
+
+#單純取出專頁的第3篇文章
+post = getPost( post = fb_page$id[3],token = fb_oauth)
+#顯示前20筆回應
+comments = post$comments$message
+comments [1:20]
+#顯示前˙6比按讚人資訊
+head( post$likes )
+
+
+
+
+
+

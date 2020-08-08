@@ -1,0 +1,39 @@
+<style type="text/css"> /*  這是ＣＳＳ */
+body {
+
+background-color: #000000;
+
+}
+#wrapper{
+width: 1240px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#wrapper #logo {
+	background-color: #06C;
+	height: 100px;
+}
+#wrapper #banner {
+	background-color: #06F;
+	height: 300px;
+}
+#wrapper #content {
+	background-color: #CF3;
+	height: 450px;
+	width: 740px;
+	float: left;
+}
+#wrapper #content2 {
+	background-color: #06C;
+	height: 450px;
+	width: 500px;
+	float: right;
+}
+#wrapper #footer {
+	background-color: #6CC;
+	height: 80px;
+	clear: both;
+}
+</style>

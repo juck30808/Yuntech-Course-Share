@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>css3 animation</title>
+		<style>
+			.run{
+				animation: kitty 3s;
+				animation-iteration-count: 1;
+			}
+			@keyframes kitty{
+				from{
+					opacity: 0;
+				}to{
+					opacity: 1;
+				}
+			}
+
+			.run2{
+				animation: doraemon 1s;
+				animation-iteration-count: infinite;
+				position: relative;
+			}
+			@keyframes doraemon{
+				from{
+					opacity: 0;
+					left: 0;
+				}to{
+					opacity: 1;
+					left: 500px;
+					right: 500px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<img src="pt.png" width="400" alt="" class="run2">
+	</body>
+</html>

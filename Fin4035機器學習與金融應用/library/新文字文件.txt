@@ -1,0 +1,36 @@
+\n 換行
+
+double kilo, pound;
+static Scanner keyboard = new Scanner(System.in);    //要大寫
+kilo = keyboard.nextDouble();
+
+
+1.class Three {                                         //名稱記得要改
+2.   static Scanner input = new Scanner(System.in);    //宣告在外面要Static 全域變數
+
+3.   public static void main(String args[]) {
+4.      Scanner input = new Scanner(System.in);       //宣告在裡面 就不用
+5.       a = this.nextInt();
+6.       b = this.nextInt();
+7.	 c = this.nextInt();
+8.       test();
+9.       test();
+10   }
+11   public static void test() {
+12       int x;
+13       System.out.println("Input:");
+14       x = keyboard.nextInt();
+15	 switch (c) {
+16          case 'a':
+17	    case 'b':
+18		System.out.println("You entered a or b");
+19		break;
+20	    default:
+21		System.out.println("You entered something else.");
+
+System.out.println("The number is even.");
+
+// 輸出有分為下列三種，其中printf可以接% 其他不行
+// println printf print
+
+*/

@@ -1,0 +1,61 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+    background-color: #000000;
+}
+.background-wrapper{
+	display: block;
+	position: relative;/*設定相對定位*/
+	width: 100%;
+	height: 100vh;
+}
+#wrapper #banner {
+	background-color: #333;
+	background-image:url(images/background.jpg);
+	width: 100%;
+	height: 100vh;/*設定100螢幕高度*/
+}
+
+#banner img{
+	width: 100%;
+	max-width: 100%;
+}
+img{
+	width: 100%;
+	max-width: 100%;
+	display: block;/*讓img後沒有2px空白*/
+}
+
+.navigation{
+	position: absolute;/*設定絕對定位*/
+	width: 600px;
+	height: 60px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	/*水平垂直置中*/
+	background-color: #FFFFFF;
+}
+ul{
+	width: 100%;
+	display: flex;
+	padding: 0;
+	margin: 0;
+}
+ul li{
+	width: 20%;
+	line-height: 60px;
+	padding: 0 1em;
+	margin: 0;
+	text-align: center;
+	list-style: none;
+}
+ul li a{
+	text-decoration: none;
+	color: #000;
+}
+ul li a:hover {
+	color: #9d000b;
+}
