@@ -1,6 +1,6 @@
-# NYUST-Yuntech-Course
-
-## 雲林科技大學課程資源站
+## Yuntech-Course-Share
+## 雲科大課程共享站
+## 台灣(Taiwan) - 雲林科技大學(Yuntech)
 
 ## 前言
 
@@ -37,7 +37,7 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 ## 免責聲明
 
 - 本項目建立的初衷是為了方便同學們更好地學習相關課程。 **嚴禁用於任何商業用途!**
-- **如果本項目有任何侵權行為，麻煩您發送郵件至 b10523030@yuntech.edu.tw ，帶來不便還請您諒解。 **
+- 如果本項目有任何侵權行為，麻煩您發送郵件至 b10523030@yuntech.edu.tw ，帶來不便還請您諒解。 
 
 按著作權法第五十二條規定：「為報導、評論、教學、研究或其他正當目的之必要，在合理範圍內，得引用已公開發表之著作。」這項規定所引用的著作，其來源如何，並無限制，著作權法第六十五條第二項規定，「應審酌一切情狀，尤應注意下列事項，以為判斷之基準：一、利用之目的及性質，包括係為商業目的或非營利教育目的。二、著作之性質。三、所利用之質量及其在整個著作所占之比例。四、利用結果對著作潛在市場與現在價值之影響。」製作課程資料利用他人著作，若能合於「非營利教育目的」、「教學之必要」、「極短片段」、「註明出處」、「避免影響被利用著作之行銷市場」，即能提高合理使用之合理性。
 
@@ -45,7 +45,7 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 
 - [北京大學計算機課程大作業](https://github.com/tongtzeho/PKUCourse)
 - [北京大學信科學生會學術部資料庫](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
-- [北京清華大學計算機系課程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京清華大學計算機系課程攻略]()
 - [北京大學往年題資料庫氣墊船計劃](https://github.com/martinwu42/project-hover)
 - [上海交通大學課程資料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [浙江大學課程攻略共享計劃](https://github.com/QSCTech/zju-icicles)
@@ -56,4 +56,5 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 - [鄭州大學課程複習資料](https://github.com/CooperNiu/ZZU-Courses-Resource)
 - [廣東工業大學計算機學院課程攻略](https://github.com/brenner8023/gdut-course)
 - [台灣大學課程攻略](https://github.com/Hsins/NTU-Courses)
-
+- [哈佛大學 CS109 課程攻略](https://github.com/cs109/content)'
+- [全美大學 CS 課程分享](https://github.com/Developer-Y/cs-video-courses)'
