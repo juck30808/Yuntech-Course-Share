@@ -1,6 +1,5 @@
 ## Yuntech-Course-Share
 ## 雲科大課程共享站
-## 台灣(Taiwan) - 雲林科技大學(Yuntech)
 
 ## 前言
 
@@ -44,20 +43,23 @@ Issue、PR、糾錯、資料、選課/考試攻略，完全歡迎！來自大家
 ## Related Works
 
 - [台灣大學課程攻略](https://github.com/Hsins/NTU-Courses)
-- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [清華大學計算機系課程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [北京大学课程资料](https://github.com/lib-pku/libpku)
 - [北京大學計算機課程大作業](https://github.com/tongtzeho/PKUCourse)
 - [上海交通大學課程資料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [浙江大學課程攻略共享計劃](https://github.com/QSCTech/zju-icicles)
 - [南京大學課程複習資料](https://github.com/idealclover/NJU-Review-Materials)
-- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-- [廣東中山大學課程資料分享](https://github.com/sysuexam/SYSU-Exam)
+- [中國科學技術大學課程資源](https://github.com/USTC-Resource/USTC-Course)
+- [中山大學課程資料分享](https://github.com/sysuexam/SYSU-Exam)
 - [廣東工業大學計算機學院課程攻略](https://github.com/brenner8023/gdut-course)
 - [鄭州大學課程複習資料](https://github.com/CooperNiu/ZZU-Courses-Resource)
-- [南京東南大學課程共享計劃](https://github.com/zjdx1998/seucourseshare)
+- [東南大學課程共享計劃](https://github.com/zjdx1998/seucourseshare)
 
-
+## Related Works
 
 - [北京大學往年題資料庫氣墊船計劃](https://github.com/martinwu42/project-hover)
-- [哈佛大學 CS109 課程攻略](https://github.com/cs109/content)'
-- [全美大學 CS 課程分享](https://github.com/Developer-Y/cs-video-courses)'
+- [哈佛大學 CS109 課程攻略](https://github.com/cs109/content)
+- [全美大學 CS 課程分享](https://github.com/Developer-Y/cs-video-courses)
+- [Scikit-Learn與TensorFlow機器學習實用指南](https://github.com/ageron/handson-ml)
+- [算法/深度學習/NLP面試筆記](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
+- [ThinkStats2](https://github.com/AllenDowney/ThinkStats2)
